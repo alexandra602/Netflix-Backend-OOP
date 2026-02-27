@@ -38,7 +38,7 @@ Proiectul demonstreaza stapanirea urmatoarelor concepte avansate:
 Panaet Maria Alexandra
 
 
-**GitHub:** [@alexandra602]
+**GitHub:** [@alexandra602] (https://github.com/alexandra602)
 
 
-**Proiect realizat pentru Facultatea de Matematica si Informatica, Universitatea din Bucuresti.**
+**Proiect realizat în cadrul Facultății de Matematică și Informatică, Universitatea din București.**
